@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Mehta</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="[[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F817403401142635505%2F&psig=AOvVaw3T5WDF8SjH5z9X8tgyuGPw&ust=1736938566477000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjXm8aG9YoDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F817403401142635505%2F&psig=AOvVaw3T5WDF8SjH5z9X8tgyuGPw&ust=1736938566477000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjXm8aG9YoDFQAAAAAdAAAAABAE)![image](https://github.com/user-attachments/assets/fee4e9bc-8781-4f7c-97fa-e69f9b1101aa)
-)">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaryanmehta&label=Profile%20views&color=0e75b6&style=flat" alt="imaryanmehta" /> </p>
